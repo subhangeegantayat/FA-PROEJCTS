@@ -7,6 +7,7 @@ Tools Used:
 - Pandas
 - Matplotlib
 - Jupyter Notebook
+- Excel (For Dashboard)
 
 Key Insights:
 - Identified top-performing product categories
